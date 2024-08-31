@@ -132,3 +132,5 @@ FROM media_diaria_eventos e
 CROSS JOIN media_diaria_total t;
 Resposta:  1) Rock in Rio - 83.4 - 58.671232876712331  2)Carnaval - 60.25 - 58.671232876712331  3) Reveillon - 46.333333333333336 -58.671232876712331
 
+
+
