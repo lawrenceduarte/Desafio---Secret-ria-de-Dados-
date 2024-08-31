@@ -25,7 +25,7 @@ WHERE DATE(data_inicio) = '2023-04-01'
 GROUP BY id_bairro
 ORDER BY total_chamados DESC
 LIMIT 3;
-Resposta: Os 3 bairros com mais chamados foram o bairro 144 com 113 chamados, o bairro 33 com 89 chamados e o bairro null - consta null na tabela com 73 chamados. 
+Resposta: Os 3 bairros com mais chamados foram o bairro Campo Grande (144) com 113 chamados, o bairro Tijuca (33) com 89 chamados e o bairro null - consta null na tabela com 73 chamados. 
 
 Qual o nome da subprefeitura com mais chamados abertos nesse dia?
 
